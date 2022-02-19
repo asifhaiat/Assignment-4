@@ -26,6 +26,6 @@ function oddFriend(nameOfFriends){
 
     return longestName;
 }
-let nameOfFriends = ["Asif Hayat", "Tasrifa Labonno", "Rayhan", "Laobni", "Shahed", "Mithun", "Borhan Uddin"];
+let nameOfFriends = ["Asif Hayat", "Tasrifa Labonno", "Rayhan", "Laobni", "Shahed", "Mithun", "Borhan Uddin", "Rasel Monim"];
 let longOddFriendsName = oddFriend(nameOfFriends);
 console.log(longOddFriendsName);
